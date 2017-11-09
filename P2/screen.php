@@ -6,7 +6,7 @@
         <?php
             $_POST["width"];
             $_POST["height"];
-            $_server['HTTP_USER_AGENT'];
+            $_SERVER['HTTP_USER_AGENT'];
         ?>
         <h3>
             <?php 
